@@ -7,3 +7,5 @@ All of implementations are JAVA.
 
 Implemented algorithms:
 1. quick sort
+
+2. insert sort
