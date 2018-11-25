@@ -9,3 +9,5 @@ Implemented algorithms:
 1. quick sort
 
 2. insert sort
+
+3. merge sort
