@@ -1,7 +1,7 @@
 # foundation
 Some foundation algorithms
 
-This repository stores code of foundtion algorithms, such as merge sort, quick sort.
+This repository stores code of foundtion algorithms.
 
 All of implementations are JAVA.
 
@@ -15,3 +15,5 @@ Implemented algorithms:
 4. binary search. It includes base binary search, binary search in 2D array and find the closest element.
 
 5. heap
+
+6. a^b
