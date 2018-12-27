@@ -11,3 +11,7 @@ Implemented algorithms:
 2. insert sort
 
 3. merge sort
+
+4. binary search. It includes base binary search, binary search in 2D array and find the closest element.
+
+5. heap
