@@ -17,3 +17,5 @@ Implemented algorithms:
 5. heap
 
 6. a^b
+
+7. check if a binary tree is complete.
