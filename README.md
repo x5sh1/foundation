@@ -31,3 +31,7 @@ Implemented algorithms:
 12. reverse a sentence
 
 13. A1B2 - > AB12 -> A1B2
+
+14. check if a tree is BST
+
+15. print all elements of BST in some range
