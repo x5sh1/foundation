@@ -19,3 +19,15 @@ Implemented algorithms:
 6. a^b
 
 7. check if a binary tree is complete.
+
+8. remove char from string
+
+9. remove duplicated spaces
+
+10. replace sub-string by other string
+
+11. reverse a string
+
+12. reverse a sentence
+
+13. A1B2 - > AB12 -> A1B2
