@@ -35,3 +35,7 @@ Implemented algorithms:
 14. check if a tree is BST
 
 15. print all elements of BST in some range
+
+16. determain a string has dupliacted char by bit
+
+17. reverse all bits if a number
